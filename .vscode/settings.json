@@ -1,0 +1,14 @@
+{
+  "sqltools.connections": [
+    {
+      "previewLimit": 50,
+      "server": "localhost",
+      "port": 5432,
+      "askForPassword": true,
+      "driver": "PostgreSQL",
+      "name": "hello_rails_react_development",
+      "database": "hello_rails_react_development",
+      "username": "postgres"
+    }
+  ]
+}
